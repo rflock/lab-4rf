@@ -1,4 +1,4 @@
-# CIS 3610 Fall 2025 Lab 3
+# CIS 3610 Fall 2025 Lab 4
 ## Working with Images
 In this project, we learned to manipulate images and incorporate them into HTML.
 
